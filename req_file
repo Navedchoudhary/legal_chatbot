@@ -1,0 +1,9 @@
+Here's the content for a requirements.txt file that lists all necessary packages for running legal_chatbot.py:
+nltk==3.8.1
+scikit-learn==1.3.2
+
+
+You can create the file by saving the above lines in a file named requirements.txt. Then install the dependencies using:
+pip install -r requirements.txt
+
+
